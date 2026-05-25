@@ -1,0 +1,26 @@
+#Data structure are different ways of organizing data on your computer, that can be used effectively.
+#Algorithm-step by step instruction of any program.
+
+# Time and space complexity:
+
+# time cokjmplexity: O(n)
+#         code 1: 30 sec 
+#         code 2: 40 sec 
+
+# Space comlexity: O(n)
+#         code 1: Take more memory 
+#         code 2: Take less memory 
+#   
+#  Here always code 1 is better. We consider execution time first.
+#       To measure we have matic called "Big O Notation"  
+#           :Big O is the language and matic we use to describe the efficiency of algorithms
+#                 O(N), O(N^2), O(2^N)
+#                       Best case  :Big Omega
+#                       Average case: Big Theta
+#                       Worse case : Big O(Omicron)
+#
+#
+#
+#
+#
+#
